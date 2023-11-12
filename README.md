@@ -6,7 +6,7 @@
 <H2><strong>Estrutura do Repositório</strong></H2>
 <p>O repositório está organizado da seguinte forma:
 <br>
-exercicios_sql.sql:Este arquivo abriga os comandos SQL necessários para a resolução dos exercícios. A realização destes exercícios visa aprimorar minhas<br> habilidades na linguagem SQL, proporcionando uma oportunidade valiosa para desenvolver proficiência nesta ferramenta fundamental no campo da gestão de bancos de dados.<br>  Cada exercício é projetado para desafiar e expandir meu conhecimento, proporcionando uma prática eficaz na aplicação de consultas SQL e no entendimento <br> de diferentes cenários de manipulação de dados.<br>Esta prática contínua contribuirá significativamente para o aprimoramento das minhas habilidades práticas em SQL, preparando-me para enfrentar desafios mais avançados no campo da gestão de dados." </p>
+exercicios_sql.sql:Este arquivo abriga os comandos SQL necessários para a resolução dos exercícios. A realização destes exercícios visa aprimorar minhas habilidades na linguagem SQL, proporcionando uma oportunidade valiosa para desenvolver proficiência nesta ferramenta fundamental no campo da gestão de bancos de dados.<br>  Cada exercício é projetado para desafiar e expandir meu conhecimento, proporcionando uma prática eficaz na aplicação de consultas SQL e no entendimento  de diferentes cenários de manipulação de dados.<br>Esta prática contínua contribuirá significativamente para o aprimoramento das minhas habilidades práticas em SQL, preparando-me para enfrentar desafios mais avançados no campo da gestão de dados." </p>
 
 <H3><strong>Como Utilizar</strong> </H3>
 <br>
